@@ -184,6 +184,7 @@ li {
 }
 
 .time_planet p {
+    text-transform: uppercase;
     font-family: "Raleway Regular", sans-serif;
     color: white;
     font-size: 24px;
